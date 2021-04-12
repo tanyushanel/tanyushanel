@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm **Tatyana Nelipovich**.
 ### 👀 I'm a begginer *Front-end developer* from Grodno, Belarus.
-I've been interesting in HTML/CSS/JavaScript technologies since I graduated from university. I went through HTML Academy course when it was just founded. I consider myself self-disciplined and self-motivated person. I try hard to learn new skills every day and to apply my knowledge wherever it's possible. Of course it tooks some time to understand coding process due to lack of experience. My goal is to become a professional front-end developer.
+I've been interesting in HTML/CSS/JavaScript technologies since I've graduated from university. I went through HTML Academy course when it was just founded. I consider myself self-disciplined and self-motivated person. I try hard to learn new skills every day and to apply my knowledge wherever it's possible. Of course it tooks some time to understand coding process due to lack of experience. My goal is to become a professional front-end developer.
 ### 🌱 I’m currently learning 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
