@@ -22,7 +22,7 @@ Self-disciplined, hard-working, honest, sociable, responsible, persistent.
 * Enough for reading tech documentation, special books and watching movies 
 
 ### 📫 How to reach me 
-   ### ✉️ Mail me: tanyusha56@mail.ru  tatyana.nelipovich@gmail.com
+   ### ✉️ Mail me: tanyusha56@mail.ru , tatyana.nelipovich@gmail.com
    ### 🌐 Telegram, Instagram, Viber: @tanyushanel
 
 
