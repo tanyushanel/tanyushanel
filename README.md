@@ -18,7 +18,7 @@ Self-disciplined, hard-working, honest, sociable, responsible, persistent.
 
 ### ✨ English 
  
-* Intermediate according to Epam on-line training
+* Intermediate
 * Enough for reading tech documentation, special books and watching movies 
 
 ### 📫 How to reach me 
