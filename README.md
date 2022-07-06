@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm **Tatyana Nelipovich**.
 
-### 👀 I'm a begginer *Front-end developer* from Grodno, Belarus (currently live in Poland).
+### 👀 I'm *Front-end developer* from Warsaw, Poland.
 I've been interesting in front-end technologies since I've graduated from the university. I went through HTML Academy course in HTML5/CSS/JS, RSSchool training course, QA Introduction EPAM (certificate of QA), internship as a participant of front-end team at EXADEL (stack of tech: Angular/TypeScript). To these days I've been learning Angular (making pet-projects) and ReactJS (just starting a course on YT). I consider myself self-disciplined and self-motivated person. I try hard to learn new skills every day and to apply my knowledge wherever it's possible. Of course it tooks some time to understand coding process due to lack of experience. My goal is to become a professional front-end developer.
 
 ### 🌱 I’m currently learning 
@@ -18,13 +18,8 @@ I've been interesting in front-end technologies since I've graduated from the un
 
 Self-disciplined, hard-working, honest, sociable, responsible, persistent.
 
-### ✨ English 
- 
-* Intermediate
-* Enough for reading tech documentation, special books and watching movies 
-
 ### 📫 How to reach me 
-   #### ✉️ Mail me: tanyusha56@mail.ru , tatyana.nelipovich@gmail.com
+   #### ✉️ Mail me: tatyana.nelipovich@gmail.com
    #### 🌐 Telegram, Instagram: @tanyushanel
 
 
