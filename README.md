@@ -11,9 +11,7 @@
 
 ### 📫 How to reach me 
    #### ✉️ Mail me: tatyana.nelipovich@gmail.com
-   #### 🌐 Telegram, Instagram: @tanyushanel
-
-
+   
 
 <!---
 tanyushanel/tanyushanel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
