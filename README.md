@@ -8,8 +8,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
+![Codewars](https://www.codewars.com/users/tanyushanel)
 
-### 📫 How to reach me 
    #### ✉️ Mail me: tatyana.nelipovich@gmail.com
    
 
