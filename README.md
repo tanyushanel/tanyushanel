@@ -11,7 +11,7 @@
 
 
    #### ✉️ Mail me: tatyana.nelipovich@gmail.com
-   [My Portfolio](https://tanyushanel.github.io/portfolio/)
+   [**********    My Portfolio    **********](https://tanyushanel.github.io/portfolio/)
 
 <!---
 tanyushanel/tanyushanel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
